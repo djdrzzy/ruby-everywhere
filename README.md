@@ -11,7 +11,7 @@ It's a simple automator action that will install itself as a service and allow y
 What else can it do?
 --------------------
 
-You can add heavily used ruby code to a '~/.ruby-everywhere' file that is loaded every time you execute the service. You can then execute that code anywhere on your mac to see the output.
+You can add heavily used ruby code to a '~/.ruby-everywhere' file that is loaded every time you execute the service. You can then use that code anywhere on your mac to see the output.
 
 Anything to make it easier?
 ---------------------------
